@@ -1,7 +1,23 @@
 # 🌟 Welcome to my GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?width=500&height=50&lines=Hi+there!+I'm+Van+Quyet+👋;Welcome+to+my+GitHub+Profile!+🌟;Let's+create+something+amazing+🚀;Nice+to+meet+you!+😊&center=true&vCenter=true&color=FF5733,FFC300,DAF7A6,33FFCE" alt="Typing SVG">
+  <div style="display: flex; justify-content: center;">
+  <h1 style="background: linear-gradient(270deg, #ff007a, #007aff, #00d4ff, #ffb900); 
+              background-size: 800% 800%; 
+              animation: gradientAnimation 10s ease infinite; 
+              -webkit-background-clip: text;
+              -webkit-text-fill-color: transparent;">
+    Hi there! I'm Van Quyet 👋
+  </h1>
+</div>
+
+<style>
+  @keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
 </p>
 
 ---
