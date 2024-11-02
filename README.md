@@ -1,7 +1,7 @@
 # 🌟 Welcome to my GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=50&lines=Hi+there!+I'm+Van+Quyet+👋;Welcome+to+my+GitHub+Profile!+🌟;Let's+create+something+amazing+🚀;Nice+to+meet+you!+😊&center=true&vCenter=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?width=500&height=50&lines=Hi+there!+I'm+Van+Quyet+👋;Welcome+to+my+GitHub+Profile!+🌟;Let's+create+something+amazing+🚀;Nice+to+meet+you!+😊&center=true&vCenter=true&color=FF5733,FFC300,DAF7A6,33FFCE" alt="Typing SVG">
 </p>
 
 ---
