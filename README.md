@@ -5,6 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21BDF7&background=7E19FF00&width=435&lines=hi+%F0%9F%91%8B+%2C+I'm+Van+Quyet;Nice+to+meet+you..." alt="Typing SVG" />
 </p>
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Van+Quyet+...;Nice+To+Meet+You+...&center=true"></a></p>
+    
+
 
 
 ## 🌐 Connect with Me
