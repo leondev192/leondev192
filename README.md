@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=50&lines=Hi👋+I'm+Van+Quyet...;Nice+To+Meet+You+...&center=true&vCenter=true" alt="Typing SVG">
 </p>
 
-
-
 ---
 
 ## 👨‍💻 About Me
