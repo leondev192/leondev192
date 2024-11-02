@@ -49,13 +49,15 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leondev192&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="LeonDev's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leondev192&theme=radical&hide_border=false" alt="GitHub Streak" width="48%"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leondev192&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%"/>
-</div>
+<!--- 2nd Section on GitHub Analytics -->
+
+
+  <summary><b>⚙️ GitHub Analytics</b></summary>
+<a href="https://github.com/sanjay-kv">
+   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<br>
+     
 
 ---
 
