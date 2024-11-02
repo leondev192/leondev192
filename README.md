@@ -2,8 +2,7 @@
 # 🌟 Welcome to LeonDev's GitHub Profile!
 <p align="center">
 
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1CA5F7&background=7E19FF00&width=435&lines=hi+%F0%9F%91%8B+%2C+I'm+Van+Quyet;Nice+to+meet+you...&center=true&vCenter=true" alt="Typing SVG" /></a>
-Copy To Clipboard
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21BDF7&background=7E19FF00&width=435&lines=hi+%F0%9F%91%8B+%2C+I'm+Van+Quyet;Nice+to+meet+you..." alt="Typing SVG" /></a>
 </p>
 
 
