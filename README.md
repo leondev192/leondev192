@@ -1,8 +1,7 @@
 
 # 🌟 Welcome to LeonDev's GitHub Profile!
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leondev192&theme=radical" alt="GitHub Stats">
-  <img src="https://visitcount.itsvg.in/api?id=leondev192&label=Profile%20Views&color=12&icon=2&pretty=false" alt="Visitor Count">
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=50&lines=Hi👋+I'm+Van Quyet;Nice+To+Meet+You+....&center=true&vCenter=true" alt="Typing SVG">
 </p>
 
 
