@@ -88,13 +88,7 @@ I believe in collaboration and sharing knowledge. Let’s connect and make somet
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leondev192&theme=radical&margin-w=15&margin-h=15" alt="Trophy">
-</p>
-
----
 
 
 
