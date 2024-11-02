@@ -96,11 +96,6 @@ I believe in collaboration and sharing knowledge. Let’s connect and make somet
 
 ---
 
-## 🎉 Fun Facts
-- 💡 I believe that technology has the power to transform and inspire.
-- 🌱 Currently learning advanced topics in AI and machine learning.
-- ⚡ Fun fact: I love solving complex puzzles and am a huge fan of sci-fi movies!
 
----
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=leondev192&icon=0&color=0)
