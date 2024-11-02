@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=450&height=50&lines=Hi👋+I'm+Van+Quyet...;Nice+To+Meet+You+...&center=true&vCenter=true" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/leondev192?style=social">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=leondev192">
-  <img src="https://img.shields.io/github/stars/leondev192?style=social">
-</p>
+
 
 ---
 
