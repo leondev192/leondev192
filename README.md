@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=21BDF7&background=7E19FF00&width=435&lines=hi+%F0%9F%91%8B+%2C+I'm+Van+Quyet;Nice+to+meet+you..." alt="Typing SVG" />
 </p>
--
-- 
+
+
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/leondev.asia?mibextid=LQQJ4d) 
