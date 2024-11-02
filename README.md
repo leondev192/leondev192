@@ -1,5 +1,8 @@
 # 🌟 Welcome to LeonDev's GitHub Profile!
-
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+LeonDev;Nice+To+Meet+You+....&center=true"></a></p>
+    
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/leondev.asia?mibextid=LQQJ4d) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/leondev.asia?igshid=dWpkZmd0YW41bzZ3) 
@@ -48,15 +51,7 @@
 
 ---
 
-## 📊 GitHub Stats
-<!--- 2nd Section on GitHub Analytics -->
 
-
-  <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
-<br>
      
 
 ---
