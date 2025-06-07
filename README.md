@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Van Quyet**, a passionate software developer with a deep interest in building efficient, scalable, and user-centric applications. With expertise in **JavaScript**, **TypeScript**, **Dart**, **React**, **Node.js**, and **Flutter**, I love transforming ideas into real-world applications that make an impact. My goal is to continually learn and explore new technologies, and I'm always excited to tackle complex challenges.
+Hello! I'm **Van Quyet**, a passionate software developer with a deep interest in building efficient, scalable, and user-centric applications. With expertise in **JavaScript**, **TypeScript**, **Dart**, and **Python**, I love transforming ideas into real-world applications that make an impact. My goal is to continually learn and explore new technologies, and I'm always excited to tackle complex challenges.
 
 I believe in collaboration and sharing knowledge. Let’s connect and make something amazing together! 🌍✨
 
